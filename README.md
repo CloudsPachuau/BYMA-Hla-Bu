@@ -1,6 +1,6 @@
 # byma
 
-A new Flutter project.
+Mizo Bethlehem Branch YMA Hla bu by LALHMINGLIANA PACHUAU
 
 ## Getting Started
 
