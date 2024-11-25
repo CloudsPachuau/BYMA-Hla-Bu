@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499873178141",
+    "project_id": "byma-hla-bu",
+    "storage_bucket": "byma-hla-bu.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499873178141:android:8e2f144ddf5fea452b9cf4",
+        "android_client_info": {
+          "package_name": "com.example.byma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepVZSBSWG7AeKueOl0xGQnqUSos-V8H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
